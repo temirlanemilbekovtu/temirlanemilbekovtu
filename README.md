@@ -2,10 +2,10 @@
 
 <p align=center> 
   I am a student Software Developer, passionate about video game development.<br>
-  🛩️ I love airfraft and 📷 adore photography.
+  🛩️ I love aircraft and 📷 adore photography.
 </p>
 
-## 🛠️ Langeages & Tools
+## 🛠️ Languages & Tools
 ![C++](https://img.shields.io/static/v1?label=&message=c%2B%2B&style=for-the-badge&logo=c%2B%2B&logoColor=white&color=black)
 ![C#](https://img.shields.io/static/v1?label=&message=c%23&style=for-the-badge&logo=csharp&logoColor=white&color=black)
 ![Bash](https://img.shields.io/static/v1?label=&message=bash&style=for-the-badge&logo=gnu-bash&logoColor=white&color=black)
